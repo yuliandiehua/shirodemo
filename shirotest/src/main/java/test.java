@@ -8,6 +8,6 @@ public class test {
         int i=sc.nextInt();
         int[] s=new int[3];
         Random random=new Random();
-
+        System.out.println("hello git");
     }
 }
