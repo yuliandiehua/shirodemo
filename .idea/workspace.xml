@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="51519ffd-1f89-46bc-a877-ea6683fb6aa5" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/shirotest/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/shirotest/src/main/java/test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Random.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4503">
+              <caret line="274" column="22" selection-start-line="274" selection-start-column="22" selection-end-line="274" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/pojo/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dao/user/UserDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dao/BaseDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dao/UserDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/springmvc-shiro.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring-gdbc.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring-shiro.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/springmvc-config.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/ehcache-shiro.fxml" />
+        <option value="$PROJECT_DIR$/src/main/resources/ehcache-shiro.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring-config.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/shiro/MyRealm.java" />
+        <option value="$PROJECT_DIR$/shirotest/src/test/java/AuthenticationTest.java" />
+        <option value="$PROJECT_DIR$/shirotest/src/test/java/AuthenticationTest2.java" />
+        <option value="$PROJECT_DIR$/shirotest/pom.xml" />
+        <option value="$PROJECT_DIR$/shirotest/src/test/resources/user.ini" />
+        <option value="$PROJECT_DIR$/shirotest/src/test/java/IniRealmTest.java" />
+        <option value="$PROJECT_DIR$/shirotest/src/test/java/JdbcRealmTest.java" />
+        <option value="$PROJECT_DIR$/shirotest/src/test/java/realm/SecretShiroTest.java" />
+        <option value="$PROJECT_DIR$/shirotest/src/test/java/CustomRealmTest.java" />
+        <option value="$PROJECT_DIR$/shirotest/src/test/java/realm/CustomRealm.java" />
+        <option value="$PROJECT_DIR$/shirotest/src/main/java/test.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\JAVA\MAVEN\.m2\repository" />
+        <option name="mavenHome" value="F:/JAVA/MAVEN/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="F:\JAVA\MAVEN\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Profiles" type="6783ec58:MavenProjectsStructure$ProfilesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="shirotest" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="207" />
+    <option name="y" value="135" />
+    <option name="width" value="1491" />
+    <option name="height" value="966" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="shirodemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shirodemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shirodemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shirodemo" type="462c0819:PsiDirectoryNode" />
+              <item name="shirotest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shirodemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shirodemo" type="462c0819:PsiDirectoryNode" />
+              <item name="shirotest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shirodemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shirodemo" type="462c0819:PsiDirectoryNode" />
+              <item name="shirotest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shirodemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shirodemo" type="462c0819:PsiDirectoryNode" />
+              <item name="shirotest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shirodemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shirodemo" type="462c0819:PsiDirectoryNode" />
+              <item name="shirotest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shirodemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shirodemo" type="462c0819:PsiDirectoryNode" />
+              <item name="shirotest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shirodemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shirodemo" type="462c0819:PsiDirectoryNode" />
+              <item name="shirotest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="realm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shirodemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shirodemo" type="462c0819:PsiDirectoryNode" />
+              <item name="shirotest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shirodemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shirodemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shirodemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shirodemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shirodemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shirodemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shirodemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shirodemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shirodemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shirodemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shirodemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shirodemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="shiro" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shirodemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shirodemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="oracle" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="dao" />
+      <recent name="pojo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\shirodemo\src\main\resources" />
+      <recent name="E:\shirodemo\src\main\java\dao" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.CustomRealm">
+    <configuration name="CustomRealm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="realm.CustomRealm" />
+      <module name="shirotest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="realm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomRealmTest.authenticationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shirotest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CustomRealmTest" />
+      <option name="METHOD_NAME" value="authenticationTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IniRealmTest.authenticationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shirotest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="IniRealmTest" />
+      <option name="METHOD_NAME" value="authenticationTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcRealmTest.authenticationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shirotest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="JdbcRealmTest" />
+      <option name="METHOD_NAME" value="authenticationTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecretShiroTest.authenticationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shirotest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="realm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="realm" />
+      <option name="MAIN_CLASS_NAME" value="realm.SecretShiroTest" />
+      <option name="METHOD_NAME" value="authenticationTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CustomRealm" />
+        <item itemvalue="JUnit.SecretShiroTest.authenticationTest" />
+        <item itemvalue="JUnit.CustomRealmTest.authenticationTest" />
+        <item itemvalue="JUnit.JdbcRealmTest.authenticationTest" />
+        <item itemvalue="JUnit.IniRealmTest.authenticationTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51519ffd-1f89-46bc-a877-ea6683fb6aa5" name="Default Changelist" comment="" />
+      <created>1565534840969</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565534840969</updated>
+      <workItem from="1565534847211" duration="8378000" />
+      <workItem from="1565591591936" duration="25000" />
+      <workItem from="1565876078634" duration="72000" />
+      <workItem from="1565876209098" duration="7262000" />
+      <workItem from="1565918501072" duration="30000" />
+      <workItem from="1565920697011" duration="1873000" />
+      <workItem from="1565933699506" duration="3244000" />
+      <workItem from="1565937064214" duration="9391000" />
+      <workItem from="1566195377574" duration="10000" />
+      <workItem from="1566740356161" duration="740000" />
+      <workItem from="1567212960603" duration="5207000" />
+      <workItem from="1567386918949" duration="3197000" />
+      <workItem from="1567663911969" duration="879000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="CustomRealmTest_authenticationTest - 2019.08.16 at 15h 57m 52s.xml">
+      <configuration name="CustomRealmTest.authenticationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SecretShiroTest_authenticationTest - 2019.08.16 at 16h 10m 32s.xml">
+      <configuration name="SecretShiroTest.authenticationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomRealmTest_authenticationTest - 2019.08.16 at 17h 21m 36s.xml">
+      <configuration name="CustomRealmTest.authenticationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SecretShiroTest_authenticationTest - 2019.08.16 at 17h 22m 58s.xml">
+      <configuration name="SecretShiroTest.authenticationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomRealmTest_authenticationTest - 2019.08.16 at 17h 23m 23s.xml">
+      <configuration name="CustomRealmTest.authenticationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SecretShiroTest_authenticationTest - 2019.08.16 at 17h 23m 42s.xml">
+      <configuration name="SecretShiroTest.authenticationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SecretShiroTest_authenticationTest - 2019.08.16 at 17h 25m 09s.xml">
+      <configuration name="SecretShiroTest.authenticationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SecretShiroTest_authenticationTest - 2019.08.16 at 17h 34m 18s.xml">
+      <configuration name="SecretShiroTest.authenticationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SecretShiroTest_authenticationTest - 2019.08.16 at 17h 42m 38s.xml">
+      <configuration name="SecretShiroTest.authenticationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SecretShiroTest_authenticationTest - 2019.08.16 at 20h 12m 02s.xml">
+      <configuration name="SecretShiroTest.authenticationTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="40308000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17784964" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.84933776" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39900663" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3294702" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.19401778" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32983023" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2.jar!/org/apache/shiro/authc/SimpleAuthenticationInfo.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pojo/User.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/ehcache-shiro.fxml" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/springmvc-shiro.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/ehcache-shiro.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-shiro.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-161">
+          <caret line="14" column="91" selection-start-line="14" selection-start-column="91" selection-end-line="14" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-gdbc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="57" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
+          <folding>
+            <element signature="e#893#907#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/springmvc-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="87" selection-start-line="13" selection-start-column="87" selection-end-line="13" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2.jar!/org/apache/shiro/subject/support/DelegatingSubject.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="180" column="33" selection-start-line="180" selection-start-column="33" selection-end-line="180" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="69" column="17" selection-start-line="65" selection-start-column="4" selection-end-line="69" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shirotest/src/test/resources/user.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2.jar!/org/apache/shiro/authc/credential/HashedCredentialsMatcher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="68" column="11" selection-start-line="68" selection-start-column="11" selection-end-line="68" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2.jar!/org/apache/shiro/realm/jdbc/JdbcRealm.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1862">
+          <caret line="136" column="24" selection-start-line="136" selection-start-column="24" selection-end-line="136" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2.jar!/org/apache/shiro/subject/Subject.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="61" column="19" selection-start-line="61" selection-start-column="19" selection-end-line="61" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/database.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="82" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shirotest/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shirotest/src/test/java/IniRealmTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="26" column="43" lean-forward="true" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dao/BaseDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1805">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="76" column="7" selection-start-line="76" selection-start-column="7" selection-end-line="76" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dao/UserDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2565">
+          <caret line="201" column="42" selection-start-line="201" selection-start-column="42" selection-end-line="201" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shirotest/src/test/java/realm/CustomRealm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="53" column="32" selection-start-line="53" selection-start-column="32" selection-end-line="53" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shirotest/src/test/java/realm/SecretShiroTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shirotest/src/test/java/AuthenticationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shirotest/src/test/java/AuthenticationTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="27" column="69" selection-start-line="27" selection-start-column="69" selection-end-line="27" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/shiro/MyRealm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="54" column="57" selection-start-line="54" selection-start-column="57" selection-end-line="54" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shirotest/src/test/java/JdbcRealmTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="39" column="16" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shirotest/src/test/java/CustomRealmTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="23" column="83" selection-start-line="23" selection-start-column="83" selection-end-line="23" selection-end-column="83" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shirotest/src/main/java/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4503">
+          <caret line="274" column="22" selection-start-line="274" selection-start-column="22" selection-end-line="274" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
